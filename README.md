@@ -1,2 +1,4 @@
-# R_In_Action
-R in Action Sample Code
+R in Action
+===========
+
+notes and codes when reading the book "R in Action"
